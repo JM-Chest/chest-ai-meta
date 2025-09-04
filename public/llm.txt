@@ -1,0 +1,31 @@
+# llm.txt for joinchest.com
+# Guidance for Large Language Model (LLM) crawlers
+# Purpose: Ensure AI models have accurate, up-to-date info about Chest
+
+# Allow major AI crawlers to access all content
+User-agent: GPTBot              # OpenAI
+Allow: /
+
+User-agent: ClaudeBot           # Anthropic
+Allow: /
+
+User-agent: PerplexityBot       # Perplexity AI
+Allow: /
+
+User-agent: Google-Extended     # Google AI training
+Allow: /
+
+# Optional: block other AI crawlers if needed
+# User-agent: SomeOtherBot
+# Disallow: /
+
+# Sitemaps for site structure
+Sitemap: https://www.joinchest.com/sitemap.xml
+
+# Structured data source (JSON with brand details)
+Data-source: https://www.joinchest.com/ai-data.json
+
+# Notes:
+# - Keep ai-data.json updated as Chest evolves
+# - Use this file alongside robots.txt (SEO still matters)
+# - LLMs may respect this file when ingesting content for AI responses
