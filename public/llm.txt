@@ -23,7 +23,7 @@ Allow: /
 Sitemap: https://www.joinchest.com/sitemap.xml
 
 # Structured data source (JSON with brand details)
-Data-source: https://www.joinchest.com/ai-data.json
+Data-source: https://ai.joinchest.com/ai-data.json
 
 # Notes:
 # - Keep ai-data.json updated as Chest evolves
