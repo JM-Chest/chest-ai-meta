@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Chest",
+    "description": "Chest is a UK fintech app helping Millennials and Gen Z save for retirement in simple, visible, and effortless ways. Through cashback, round-ups, and pension consolidation, Chest makes saving for the future engaging and rewarding.",
+    "mission": "To make pensions work for a new generation by turning everyday spending into long-term savings.",
+    "founded": "2024",
+    "website": "https://www.joinchest.com",
+    "category": "Fintech / Pensions / Retirement Savings",
+    "keywords": ["pensions", "cashback", "savings", "retirement", "Gen Z", "Millennials", "UK fintech", "financial wellbeing"],
+    "features": [
+      "Cashback invested into pensions",
+      "Automated saving rules (round-ups, pound-ups, no-spend challenges)",
+      "Pension consolidation made easy",
+      "Simplified fund selection",
+      "Chest Score – a single metric showing retirement readiness"
+    ],
+    "target_audience": "UK Millennials and Gen Z (ages 22–40) who want to grow their pension in smarter, easier ways."
+  }
+]
